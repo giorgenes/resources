@@ -28,6 +28,10 @@
 * [CSS Utility classes and separation of concerns](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) - Article by Adam Wathan on different strategies on how to write and organize CSS which lead to the creation of [Tailwind CSS](https://tailwindcss.com/).
 * [JAMStack](https://jamstack.org/) - Modern way of building websites
 
+## Javascript
+
+* [ES6 Features](http://es6-features.org/) - List of new features in ES6 and comparison examples with ES5.
+
 ## Go
 
 * [Awesome GO](https://github.com/avelino/awesome-go) - a Curated list of Go tools and libraries
