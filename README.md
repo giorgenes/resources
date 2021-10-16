@@ -49,6 +49,7 @@
 * [PlantUML - Open Source Diagraming Tool](https://plantuml.com/)
 * [How to Become a Great Software Architect](https://www.youtube.com/watch?v=v_nhv6aY1Kg) - Great talk from Eberhard Wolff 
 * [https://microservices.io/](https://microservices.io/) - Website full of resources about webservices
+* [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) and the [longer version](https://www.oreilly.com/library/view/distributed-systems-in/9781491924914/)
 
 ## Performance
 
