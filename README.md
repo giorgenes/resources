@@ -80,6 +80,7 @@
 * [Hygen - scalable code generator](https://www.hygen.io/)
 * [Random name generator](https://sprintnamegenerator.com/)
 * [C4 plant UML components](https://github.com/plantuml-stdlib/C4-PlantUML)
+* [Unscreen](https://www.unscreen.com/) - Remove background from videos
 
 ## Philosophy
 
@@ -114,4 +115,10 @@
 * [Elementor](https://elementor.com/)
 * [Zyro](https://zyro.com/)
 * [Squarespace](https://www.squarespace.com/)
+
+# Marketing
+
+* [Poet](https://poet.so/) - Share tweets as images
+* [Twitter Picker](https://twitterpicker.com/) - Draw a winner from your tweets
+
 
