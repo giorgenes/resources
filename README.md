@@ -112,6 +112,6 @@
 * [Nicepage](https://nicepage.com/)
 * [Webflow](https://webflow.com/)
 * [Elementor](https://elementor.com/)
-* [Zyro](https://zyro.com/
+* [Zyro](https://zyro.com/)
 * [Squarespace](https://www.squarespace.com/)
 
