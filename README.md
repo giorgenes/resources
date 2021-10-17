@@ -118,7 +118,17 @@
 
 # Marketing
 
+## Twitter
+
 * [Poet](https://poet.so/) - Share tweets as images
 * [Twitter Picker](https://twitterpicker.com/) - Draw a winner from your tweets
 
+## Facebook
 
+* [Facebook Ads Library](https://www.facebook.com/ads/library)
+
+# Startups
+
+* [YCombinator library](https://www.ycombinator.com/library)
+* [Product Hunt](https://www.producthunt.com/)
+* [IndieHackers](https://www.indiehackers.com/)
