@@ -48,8 +48,18 @@
 * [C4 Architecture Visualization Model](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 * [PlantUML - Open Source Diagraming Tool](https://plantuml.com/)
 * [How to Become a Great Software Architect](https://www.youtube.com/watch?v=v_nhv6aY1Kg) - Great talk from Eberhard Wolff 
-* [https://microservices.io/](https://microservices.io/) - Website full of resources about webservices
 * [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) and the [longer version](https://www.oreilly.com/library/view/distributed-systems-in/9781491924914/)
+
+### Microservices
+
+* [https://microservices.io/](https://microservices.io/) - Website full of resources about webservices
+* [Microservice Prerequisites](https://martinfowler.com/bliki/MicroservicePrerequisites.html) - Microservice Prerequisites by Martin Fowler
+* [Fabulous Fortunes, Fewer Failures, and Faster Fixes from Functional Fundamentals - Scott Havens](https://www.youtube.com/watch?v=FskIb9SariI)
+
+### Monolith
+
+* [The Monolith Strikes Back: Why Istio Migrated From Microservices to a Monolithic Architecture](https://ieeexplore.ieee.org/document/9520758) 
+* [The majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith/)
 
 ## Performance
 
@@ -94,3 +104,8 @@
 * [noisli](https://www.noisli.com/) - White noise generator to help you focus
 * [Todoist](https://todoist.com/) - Powerful and simple todo list app
 * [Notion](https://www.notion.so/) - Great note taking app
+
+# Website Builders
+
+* [WIX](https://www.wix.com/)
+* [carrd](https://carrd.co/)
