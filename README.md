@@ -67,6 +67,7 @@
 * [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 * [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E) - Talk at QCon London 2017
 * [Scaling Memcache at Facebook](http://www.cs.utah.edu/~stutsman/cs6963/public/papers/memcached.pdf)
+* [Scaling Pinterest](https://www.youtube.com/watch?v=jQNCuD_hxdQ) - Marty Weiner at GOTO 2014
 
 ## Tools
 
