@@ -62,9 +62,11 @@
 * [The Monolith Strikes Back: Why Istio Migrated From Microservices to a Monolithic Architecture](https://ieeexplore.ieee.org/document/9520758) 
 * [The majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith/)
 
-## Performance
+## Performance & Scaling
 
 * [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
+* [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E) - Talk at QCon London 2017
+* [Scaling Memcache at Facebook](http://www.cs.utah.edu/~stutsman/cs6963/public/papers/memcached.pdf)
 
 ## Tools
 
