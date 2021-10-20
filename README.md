@@ -113,6 +113,7 @@
 
 # Website Builders
 
+* [Weebly](https://www.weebly.com/)
 * [WIX](https://www.wix.com/)
 * [carrd](https://carrd.co/)
 * [Nicepage](https://nicepage.com/)
