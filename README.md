@@ -137,3 +137,10 @@
 * [YCombinator library](https://www.ycombinator.com/library)
 * [Product Hunt](https://www.producthunt.com/)
 * [IndieHackers](https://www.indiehackers.com/)
+
+# Platforms
+
+* [M3O](https://m3o.com/) - M3O is an open source AWS alternative built for the next generation of developers
+* [Vercel](https://vercel.com/) - Host your JAMStack project, from the creators of next.js
+* [Netlify](https://www.netlify.com/) - Build, deploy, & scale modern web projects
+* [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
