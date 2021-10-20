@@ -144,3 +144,5 @@
 * [Vercel](https://vercel.com/) - Host your JAMStack project, from the creators of next.js
 * [Netlify](https://www.netlify.com/) - Build, deploy, & scale modern web projects
 * [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+* [Linode](https://www.linode.com/)
+* [DigitalOcean](https://www.digitalocean.com/)
