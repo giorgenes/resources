@@ -126,6 +126,7 @@
 * [noisli](https://www.noisli.com/) - White noise generator to help you focus
 * [Todoist](https://todoist.com/) - Powerful and simple todo list app
 * [Notion](https://www.notion.so/) - Great note taking app
+* [Rescue Time](https://www.rescuetime.com/) - Track time wasted on websites and apps
 
 # Website Builders
 
