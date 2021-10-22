@@ -11,7 +11,9 @@
 ## Deep Dive
 
 1. Learn [Algorithms and O notation in javascript](https://www.youtube.com/watch?v=JgWm6sQwS_I)
-2. Challenge: Solve problems on [leetcode](https://leetcode.com/).
+2. Learn [how to use Git and Github](https://www.youtube.com/watch?v=RGOj5yH7evk). Git it the corner stone of software development and is a fundamental tool used by virtually all software developers. Spend some time to learn it well. You gonna use it daily.
+3. Challenge: Create a github account, a repository for you project and push your code to it.
+4. Challenge: Solve problems on [leetcode](https://leetcode.com/).
 
 # Step 2: APIS
 
@@ -25,7 +27,16 @@
 1. Learn [GraphQL](https://www.youtube.com/watch?v=ed8SzALpx1Q), an alternative to REST.
 2. Challenge: Build a weather application which takes a city name in a text input, fetches weather data from a weather API like [OpenWeatherMap](https://openweathermap.org/api) and display the current temperature for the city.
 
-# Step 3 Frameworks
+# Step 3 Frontend Frameworks
 
+1. Learn Node JS
 2. Learn [React](https://www.youtube.com/watch?v=w7ejDZ8SWv8).
 4. Learn [Next.js](https://www.youtube.com/watch?v=mTz0GXj8NN0)
+
+# Step 4: Let's get professional
+
+* best practices
+* engineering principles
+* TDD, BDD
+
+
