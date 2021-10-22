@@ -87,6 +87,11 @@
 * [C4 plant UML components](https://github.com/plantuml-stdlib/C4-PlantUML)
 * [Unscreen](https://www.unscreen.com/) - Remove background from videos
 
+### SQL / Databases
+
+* [Sequel PRO](https://www.sequelpro.com/) - MySQL database manager
+* [Table PLUS](https://tableplus.com/) - Modern database management with MySQL, PostgreSQL and sqlite support
+
 ## Philosophy
 
 * [20 things I've learned in my 20 years as a software developer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) - Great blog post by Justin Etheredge
