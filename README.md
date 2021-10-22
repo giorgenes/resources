@@ -92,6 +92,11 @@
 * [Sequel PRO](https://www.sequelpro.com/) - MySQL database manager
 * [Table PLUS](https://tableplus.com/) - Modern database management with MySQL, PostgreSQL and sqlite support
 
+### Translations
+
+* [Tolgee](https://tolgee.io/) - All in One localization for your project
+
+
 ## Philosophy
 
 * [20 things I've learned in my 20 years as a software developer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) - Great blog post by Justin Etheredge
