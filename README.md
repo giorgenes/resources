@@ -37,6 +37,11 @@
 
 * [Awesome GO](https://github.com/avelino/awesome-go) - a Curated list of Go tools and libraries
 
+## Next.JS
+
+* [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
+* [Tailwind + Next.js templates](https://creativedesignsguru.com/)
+
 ## Ruby
 
 * [BetterSpec - How to write better specs](https://www.betterspecs.org/)
