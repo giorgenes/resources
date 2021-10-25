@@ -13,7 +13,7 @@
 * [Story Mapping](https://www.jpattonassociates.com/story-mapping/)
 * [Lencioni's 5 dysfunctions of a team](https://medium.com/taskworld-blog/lencionis-5-dysfunctions-of-a-team-330d58b2cd81)
 * [The Agile Manifesto](https://agilemanifesto.org/) - Short and sweet agile manifesto
-
+* [The PMO is Dead, Long Live the PMO](https://www.youtube.com/watch?v=R-fol1vkPlM&t=396s) - Talk about PMO role in agile teams/companies and also talk about some agile anti-patterns.
 
 ## Testing, TDD, BDD
 
