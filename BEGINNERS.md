@@ -4,9 +4,11 @@
 
 ## Study Plan
 
+1. Learn [VScode](https://www.youtube.com/watch?v=VqCgcpAypFQ)
 1. Learn [Basic HTML and CSS](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 1. Learn and have fun with [Blockly Games](https://blockly.games/) - Interactive games to learn computer logic and get your first contact with javascript
 1. Learn [Javascript](https://www.youtube.com/watch?v=jS4aFq5-91M) - JavaScript Programming - Full Course
+1. Learn [MacOS Terminal Basics](https://www.youtube.com/watch?v=aKRYQsKR46I) - Intro to how to use the terminal
 
 ## Deep Dive
 
