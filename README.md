@@ -15,7 +15,7 @@
 * [The Agile Manifesto](https://agilemanifesto.org/) - Short and sweet agile manifesto
 * [The PMO is Dead, Long Live the PMO](https://www.youtube.com/watch?v=R-fol1vkPlM&t=396s) - Talk about PMO role in agile teams/companies and also talk about some agile anti-patterns.
 * [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/) - Scoring model to help with decision making
-* [https://hbr.org/2007/11/a-leaders-framework-for-decision-making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making) - The Cynefin Framework, another model for decision making
+* [A Leader’s Framework for Decision Making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making) - The Cynefin Framework, another model for decision making
 
 ## Testing, TDD, BDD
 
