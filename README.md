@@ -105,9 +105,11 @@
 
 ### Online IDE's
 
+* [Gitpod](https://www.gitpod.io/)
 * [replit](https://replit.com/)
 * [Vscode online](https://vscode.dev/)
 * [Codepen](https://codepen.io/)
+* [JS Fiddle](https://jsfiddle.net/)
 
 
 ## Philosophy
