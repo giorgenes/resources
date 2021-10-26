@@ -54,6 +54,7 @@
 * [Rubocop Rspec Style Guide](https://github.com/rubocop/rspec-style-guide)
 * [View Components](https://viewcomponent.org/) - A framework for creating reusable, testable & encapsulated view components, built to integrate seamlessly with Ruby on Rails.
 * [Bootboot](https://github.com/Shopify/bootboot) - Dual boot your Gemfiles to manage dependency upgrades. From Spotify.
+* [Why’s (Poignant) Guide to Ruby](https://poignant.guide/book/)
 
 
 ## Architecture
