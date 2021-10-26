@@ -39,6 +39,10 @@
 
 * [Awesome GO](https://github.com/avelino/awesome-go) - a Curated list of Go tools and libraries
 
+## Dart / Flutter
+
+* [Made with google](https://devlibrary.withgoogle.com/products/flutter) - Made with Flutter list
+
 ## Next.JS
 
 * [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
@@ -95,6 +99,11 @@
 * [C4 plant UML components](https://github.com/plantuml-stdlib/C4-PlantUML)
 * [Unscreen](https://www.unscreen.com/) - Remove background from videos
 
+### Docs and Guides
+
+* [Rico's Cheatsheets](https://devhints.io/) - Collection of curated cheatsheets
+* [TL;DR Man pages](https://tldr.sh/) - Command line tool with simpler man pages
+
 ### SQL / Databases
 
 * [Sequel PRO](https://www.sequelpro.com/) - MySQL database manager
@@ -137,7 +146,7 @@
 * [Todoist](https://todoist.com/) - Powerful and simple todo list app
 * [Notion](https://www.notion.so/) - Great note taking app
 * [Rescue Time](https://www.rescuetime.com/) - Track time wasted on websites and apps
-* [Rico's Cheatsheets](https://devhints.io/) - Collection of curated cheatsheets
+
 
 # Website Builders
 
