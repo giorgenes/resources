@@ -64,6 +64,7 @@
 * [https://microservices.io/](https://microservices.io/) - Website full of resources about webservices
 * [Microservice Prerequisites](https://martinfowler.com/bliki/MicroservicePrerequisites.html) - Microservice Prerequisites by Martin Fowler
 * [Fabulous Fortunes, Fewer Failures, and Faster Fixes from Functional Fundamentals - Scott Havens](https://www.youtube.com/watch?v=FskIb9SariI)
+* [The Monolith Strikes Back: Why Istio Migrated From Microservices to a Monolithic Architecture](https://ieeexplore.ieee.org/document/9520758)
 
 ### Monolith
 
