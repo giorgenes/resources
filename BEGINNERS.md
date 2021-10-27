@@ -16,10 +16,15 @@
 - Learn [Javascript](https://www.linkedin.com/learning/paths/advance-your-skills-in-javascript)
 - [Visual javascript course](https://www.linkedin.com/learning/coding-for-visual-learners-learning-javascript-from-scratch)
 
+# Learn Git
+
+* Learn [how to use Git and Github](https://www.youtube.com/watch?v=RGOj5yH7evk). Git it the corner stone of software development and is a fundamental tool used by virtually all software developers. Spend some time to learn it well. You gonna use it daily.
+* [Ohmygit](https://ohmygit.org/) - Interactive game to learn git
+* [Learn Git Branching](https://learngitbranching.js.org/) - Learn git branch interactively
+
 ## Deep Dive
 
 1. Learn [Algorithms and O notation in javascript](https://www.youtube.com/watch?v=JgWm6sQwS_I)
-2. Learn [how to use Git and Github](https://www.youtube.com/watch?v=RGOj5yH7evk). Git it the corner stone of software development and is a fundamental tool used by virtually all software developers. Spend some time to learn it well. You gonna use it daily.
 3. Challenge: Create a github account, a repository for you project and push your code to it.
 4. Challenge: Solve problems on [leetcode](https://leetcode.com/).
 
