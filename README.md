@@ -147,6 +147,7 @@
 * [Todoist](https://todoist.com/) - Powerful and simple todo list app
 * [Notion](https://www.notion.so/) - Great note taking app
 * [Rescue Time](https://www.rescuetime.com/) - Track time wasted on websites and apps
+* [Github Copilot](https://copilot.github.com/) - AI powered code "completion".
 
 
 # Website Builders
@@ -167,6 +168,7 @@
 
 * [Poet](https://poet.so/) - Share tweets as images
 * [Twitter Picker](https://twitterpicker.com/) - Draw a winner from your tweets
+* [TweetHunter](https://tweethunter.io/#)
 
 ## Facebook
 
