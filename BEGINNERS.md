@@ -30,6 +30,7 @@
 - Learn [Javascript](https://www.youtube.com/watch?v=jS4aFq5-91M) - JavaScript Programming - Full Course
 - Learn [Javascript](https://www.linkedin.com/learning/paths/advance-your-skills-in-javascript)
 - [Visual javascript course](https://www.linkedin.com/learning/coding-for-visual-learners-learning-javascript-from-scratch)
+- [Crunchzilla](https://www.crunchzilla.com/) - Another game where you draw with javascript
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) - A game where you write JS to escape a dungeon
 
 # Learn Git
