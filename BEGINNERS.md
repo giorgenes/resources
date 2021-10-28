@@ -2,19 +2,32 @@
 
 # Step 1: The basics
 
-## Study Plan
+## Basics
 
 1. Learn [VScode](https://www.youtube.com/watch?v=VqCgcpAypFQ)
-1. Learn [Basic HTML and CSS](https://www.youtube.com/watch?v=qz0aGYrrlhU)
-3. Learn [MacOS Terminal Basics](https://www.youtube.com/watch?v=aKRYQsKR46I) - Intro to how to use the terminal
+4. Learn [MacOS Terminal Basics](https://www.youtube.com/watch?v=aKRYQsKR46I) - Intro to how to use the terminal
+
+## CSS and HTML
+
+### Learn
+
+* Learn [Basic HTML and CSS](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+
+### Practice
+
+* [Interactive game to practice CSS](https://flukeout.github.io/)
+* [Flexbox Froggy](https://flexboxfroggy.com/) - interactive game to practice flexbox
 
 ## Javascript
+
+## Learn
 
 - Learn and have fun with [Blockly Games](https://blockly.games/) - Interactive games to learn computer logic and get your first contact with javascript
 - [Programming Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming)
 - Learn [Javascript](https://www.youtube.com/watch?v=jS4aFq5-91M) - JavaScript Programming - Full Course
 - Learn [Javascript](https://www.linkedin.com/learning/paths/advance-your-skills-in-javascript)
 - [Visual javascript course](https://www.linkedin.com/learning/coding-for-visual-learners-learning-javascript-from-scratch)
+- [Untrusted](https://alexnisnevich.github.io/untrusted/) - A game where you write JS to escape a dungeon
 
 # Learn Git
 
