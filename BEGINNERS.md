@@ -17,6 +17,7 @@
 
 * [Interactive game to practice CSS](https://flukeout.github.io/)
 * [Flexbox Froggy](https://flexboxfroggy.com/) - interactive game to practice flexbox
+* [Hex invaders](http://www.hexinvaders.com/) - Play space invaders like game to learn hex colors
 
 ## Javascript
 
