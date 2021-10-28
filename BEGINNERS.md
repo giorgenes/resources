@@ -15,10 +15,11 @@
 
 ### Practice
 
-* [Interactive game to practice CSS](https://flukeout.github.io/)
+* [Flukeout](https://flukeout.github.io/) - Interactive game to practice CSS
 * [Flexbox Froggy](https://flexboxfroggy.com/) - interactive game to practice flexbox
 * [Hex invaders](http://www.hexinvaders.com/) - Play space invaders like game to learn hex colors
 * [Pixact](https://www.pixact.ly/) - Test you sense of pixel size
+* [Flex Box Defense](http://www.flexboxdefense.com/) - Tower Defense style of game to practice flexbox
 
 ## Javascript
 
