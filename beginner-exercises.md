@@ -105,12 +105,35 @@ $37,001 – $90,000		$3,572 plus 32.5c for each $1 over $37,000
 $90,001 – $180,000 	$20,797 plus 37c for each $1 over $87,000
 $180,001 and over $51,667 plus 45c for each $1 over $180,000
   
-  ## Age checker
+## Age checker
   
   If < 18 not allowed else allowed
      
+## Quiz game
 
+## Rock/Paper/Scissor
 
+## Temperature converter
+
+Convert a temperature in K, C or F to the corresponding value in K, C or F.
+
+Example:
+Type the temperature unit (K, C, or F):
+C
+Type the temperature:
+10
+Convert to which unit?
+F
+Result: 10C is 50F
+
+```
+C to F = (C × 9/5)
+C to K = C + 273.15
+F to C = (F − 32) × 5/9
+F to K = (F − 32) × 5/9 + 273.15
+K to C = K − 273.15
+K to F = (K − 273.15) × 9/5 + 32
+```
 
 
 
