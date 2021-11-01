@@ -1,34 +1,4 @@
-# Input/Output
 
-## Convert USD to another currency
-
-Input: USD amount
-Output: Amount in the other currency
-
-## Greeting
-
-Input: First and Last name
-
-Output: Hello full name
-  
-## program to enter two numbers and find their sum.
-  
-## program to enter two numbers and perform all arithmetic operations.
-  
-## program to enter length in centimeter and convert it into meter and kilometer.
-  
-## program to enter temperature in Celsius and convert it into Fahrenheit.
-  
-## program to convert days into years, weeks and days.
-  
-## program to enter any number and calculate its square root.
-  
-## program to enter two angles of a triangle and find the third angle.
-  
-## program to enter base and height of a triangle and find its area.
-  
-## program to enter marks of five subjects and calculate total, average and percentage.
-  
 
 # If-Else Conditionals
 
@@ -67,7 +37,18 @@ Monday
 
 ## Program to count total number of notes in given amount
 
+Input: Monetary about, ex: (15)
+
+Output: Number of notes
+
+example: 1 note of $10 and 1 note of $5
+
+
 ## Program to input angles of a triangle and check whether triangle is valid or not
+
+Input: angle 1, 2 and 3 of the triangle
+
+Output: whether the triangle is valid or not (hint: a triangle's inside angles must equal 180 degrees)
 
 ## Program to calculate profit or loss
 
@@ -111,7 +92,12 @@ $180,001 and over $51,667 plus 45c for each $1 over $180,000
      
 ## Quiz game
 
+Display a question for the user (ex: what is the most populous city in the world?), then display 5 options (option a, b, c, d and e).
+Let the user type one option and then display whether the user won or not.
+
 ## Rock/Paper/Scissor
+
+
 
 ## Temperature converter
 
