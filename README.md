@@ -109,6 +109,7 @@
 
 * [Insomnia REST](https://insomnia.rest/) - Interactive HTTP REST Client
 * [Postman](https://www.postman.com/) - Interactive HTTP REST Client
+* [HTTPie](https://httpie.io/) - CMD and GUI Rest Client
 
 ### SQL / Databases
 
