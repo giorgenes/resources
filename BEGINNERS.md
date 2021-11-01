@@ -35,6 +35,7 @@
 
 # Learn Git
 
+* Learn [Markdown](https://guides.github.com/features/mastering-markdown/)
 * Learn [how to use Git and Github](https://www.youtube.com/watch?v=RGOj5yH7evk). Git it the corner stone of software development and is a fundamental tool used by virtually all software developers. Spend some time to learn it well. You gonna use it daily.
 * [Ohmygit](https://ohmygit.org/) - Interactive game to learn git
 * [Learn Git Branching](https://learngitbranching.js.org/) - Learn git branch interactively
