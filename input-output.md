@@ -28,8 +28,6 @@ puts "Hello, #{full_name}"
 ```
 
 
-
-
 ## Convert USD to another currency
 
 Input: USD amount
