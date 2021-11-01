@@ -1,5 +1,35 @@
 # Input/Output
 
+## Write down the output of the code snippets below
+
+```ruby
+first_name = "John"
+last_name = "Dough"
+
+puts "Hello, #{first_name} #{last_name}"
+```
+
+```ruby
+num1 = 10
+num2 = 20
+
+sum = num1 + num2
+
+puts "The sum of #{num1} and #{num2} is #{sum}"
+```
+
+```ruby
+first_name = "John"
+last_name = "Dough"
+
+full_name = "#{first_name} #{last_name}"
+
+puts "Hello, #{full_name}"
+```
+
+
+
+
 ## Convert USD to another currency
 
 Input: USD amount
