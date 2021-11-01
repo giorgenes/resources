@@ -105,6 +105,11 @@
 * [Rico's Cheatsheets](https://devhints.io/) - Collection of curated cheatsheets
 * [TL;DR Man pages](https://tldr.sh/) - Command line tool with simpler man pages
 
+### REST / HTTP
+
+* [Insomnia REST](https://insomnia.rest/) - Interactive HTTP REST Client
+* [Postman](https://www.postman.com/) - Interactive HTTP REST Client
+
 ### SQL / Databases
 
 * [Sequel PRO](https://www.sequelpro.com/) - MySQL database manager
