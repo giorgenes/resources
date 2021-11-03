@@ -1,11 +1,5 @@
 # Beginner Web Developer Zero to Hero Study Plan 2021
 
-# Step 1: The basics
-
-## Basics
-
-1. Learn [VScode](https://www.youtube.com/watch?v=VqCgcpAypFQ)
-4. Learn [MacOS Terminal Basics](https://www.youtube.com/watch?v=aKRYQsKR46I) - Intro to how to use the terminal
 
 ## CSS and HTML
 
@@ -20,6 +14,17 @@
 * [Hex invaders](http://www.hexinvaders.com/) - Play space invaders like game to learn hex colors
 * [Pixact](https://www.pixact.ly/) - Test you sense of pixel size
 * [Flex Box Defense](http://www.flexboxdefense.com/) - Tower Defense style of game to practice flexbox
+
+### Project
+
+* Make your personal webpage, online business card
+* Learn [how to use Git and Github](https://www.youtube.com/watch?v=RGOj5yH7evk). Git it the corner stone of software development and is a fundamental tool used by virtually all software developers. Spend some time to learn it well. You gonna use it daily.
+* Publish your page with [Vercel](https://vercel.com/).
+
+## Basics
+
+1. Learn [VScode](https://www.youtube.com/watch?v=VqCgcpAypFQ)
+4. Learn [MacOS Terminal Basics](https://www.youtube.com/watch?v=aKRYQsKR46I) - Intro to how to use the terminal
 
 ## Javascript
 
@@ -36,7 +41,6 @@
 # Learn Git
 
 * Learn [Markdown](https://guides.github.com/features/mastering-markdown/)
-* Learn [how to use Git and Github](https://www.youtube.com/watch?v=RGOj5yH7evk). Git it the corner stone of software development and is a fundamental tool used by virtually all software developers. Spend some time to learn it well. You gonna use it daily.
 * [Ohmygit](https://ohmygit.org/) - Interactive game to learn git
 * [Learn Git Branching](https://learngitbranching.js.org/) - Learn git branch interactively
 
