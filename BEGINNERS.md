@@ -15,7 +15,7 @@
 * [Pixact](https://www.pixact.ly/) - Test you sense of pixel size
 * [Flex Box Defense](http://www.flexboxdefense.com/) - Tower Defense style of game to practice flexbox
 
-### Project
+### Challenge
 
 * Make your personal webpage, online business card
 * Learn [how to use Git and Github](https://www.youtube.com/watch?v=RGOj5yH7evk). Git it the corner stone of software development and is a fundamental tool used by virtually all software developers. Spend some time to learn it well. You gonna use it daily.
