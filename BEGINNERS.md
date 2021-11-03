@@ -1,7 +1,7 @@
 # Beginner Web Developer Zero to Hero Study Plan 2021
 
 
-## CSS and HTML
+## 1. CSS and HTML
 
 ### Learn
 
