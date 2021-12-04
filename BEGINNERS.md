@@ -9,7 +9,7 @@
 
 ### Practice
 
-* [Flukeout](https://flukeout.github.io/) - Interactive game to practice CSS
+* [Flukeout](https://flukeout.github.io/) - Interactive game to practice CSS selectors
 * [Flexbox Froggy](https://flexboxfroggy.com/) - interactive game to practice flexbox
 * [Hex invaders](http://www.hexinvaders.com/) - Play space invaders like game to learn hex colors
 * [Pixact](https://www.pixact.ly/) - Test you sense of pixel size
