@@ -140,6 +140,7 @@
 * [YCombinator library](https://www.ycombinator.com/library)
 * [Product Hunt](https://www.producthunt.com/)
 * [IndieHackers](https://www.indiehackers.com/)
+* [Lean Canvas](https://leanstack.com/lean-canvas)
 
 # Platforms
 
