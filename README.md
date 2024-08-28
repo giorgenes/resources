@@ -17,6 +17,10 @@
 * [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/) - Scoring model to help with decision making
 * [A Leader’s Framework for Decision Making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making) - The Cynefin Framework, another model for decision making
 
+## Project Management
+
+* [https://adr.github.io/](Architectural Decision Records)
+
 ## Testing, TDD, BDD
 
 * [TDD Anti Patterns](https://bryanwilhite.github.io/the-funky-knowledge-base/entry/kb2076072213/)
