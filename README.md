@@ -19,7 +19,7 @@
 
 ## Project Management
 
-* [https://adr.github.io/](Architectural Decision Records)
+* [Architectural Decision Records](https://adr.github.io/)
 
 ## Testing, TDD, BDD
 
