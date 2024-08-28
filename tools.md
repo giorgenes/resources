@@ -7,6 +7,7 @@
 * [SimpleIcons - List of icons to use with your git badge](https://simpleicons.org/)
 * [markdown table generator](https://www.tablesgenerator.com/markdown_tables)
 * [.gitignore generator](https://www.toptal.com/developers/gitignore)
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 
 ### Other tools
